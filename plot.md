@@ -41,4 +41,8 @@ This continued for many months and one day Theseus thought to himself:
   
 "I wonder how many of the files in this project still contain my code"  
 
+He analysed the files in the repository and found that not a single line of his original code was still in use. Over time, all of it had been replaced by cleaner, faster and smarter code from his contributors.
+
+Pondering whether the application could truly be called his own, he decided to...  
+
 
