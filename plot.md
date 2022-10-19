@@ -45,3 +45,4 @@ He analysed the files in the repository and found that not a single line of his 
 
 Pondering whether the application could truly be called his own, he decided to commit to an open source license so that everyone could enjoy the code for free, forever.
 
+The End.
