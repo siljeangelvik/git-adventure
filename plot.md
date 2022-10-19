@@ -22,3 +22,8 @@ the solution eluded Theseus.
 Theseus decided to make a post on a forum offering his application to anyone who wanted to use it for free.   
 He described its purpose, features and his plan for the future and spent that evening answering questions from the community.
 
+## Chapter Two
+
+The next morning, Theseus saw that he had an email notification.   
+Someone had forked his repository, adding their own solution.   
+They requested a Pull Review to merge their code into his.
