@@ -37,3 +37,8 @@ Although some were not good enough to be added, the others were useful and writt
 Soon, Theseus spent little time writing new code for his project, instead managing discussions,   
 reviewing pull requests and creating release tags.  
 
+This continued for many months and one day Theseus thought to himself:  
+  
+"I wonder how many of the files in this project still contain my code"  
+
+
